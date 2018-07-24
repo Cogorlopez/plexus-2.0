@@ -1,0 +1,18 @@
+main {
+  background-image: url("../images/alt-cov.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+footer{
+  background-color: transparent;
+}
+
+.centered {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  /* font-size: 40pt; */
+  color: white;
+  margin-left: 20px;
+}

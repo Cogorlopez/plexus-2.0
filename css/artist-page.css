@@ -1,0 +1,17 @@
+main img {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  max-width: 100%;
+}
+
+.row .container a {
+    color: white;
+}
+
+.social i{
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
